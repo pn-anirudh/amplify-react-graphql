@@ -1,0 +1,14 @@
+{
+  "resourceName": "anirudhbuckets",
+  "policyUUID": "a1d4bad3",
+  "bucketName": "anirudhbuckets",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
